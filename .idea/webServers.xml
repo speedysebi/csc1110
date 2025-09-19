@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="318f6e30-9f1e-4e09-b51c-462431df26f0" name="sebi" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\huelkes\Music\git" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
