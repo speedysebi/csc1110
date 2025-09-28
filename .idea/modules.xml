@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/VariableNameCheck/VariableNameCheck.iml" filepath="$PROJECT_DIR$/VariableNameCheck/VariableNameCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/huelkes.iml" filepath="$PROJECT_DIR$/huelkes.iml" />
     </modules>
   </component>
