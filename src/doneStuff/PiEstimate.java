@@ -1,3 +1,5 @@
+package doneStuff;
+
 import java.util.Scanner;
 
 /*
@@ -23,9 +25,7 @@ public class PiEstimate{
         // for loops are the best according to our glorious teacher
 
 
-        if (bad input) {
-             System.out.println("Invalid input");
-        }
+
 
     }
 }
